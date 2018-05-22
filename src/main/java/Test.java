@@ -4,4 +4,7 @@ public class Test {
 		// TODO Auto-generated constructor stub
 		System.out.println(11);
 	}
+	public void name() {
+		
+	}
 }
